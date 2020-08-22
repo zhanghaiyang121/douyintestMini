@@ -1,0 +1,4 @@
+<!--pages/mine/index.wxml-->
+<view  bindtap="choosevideo">
+上传
+</view>
